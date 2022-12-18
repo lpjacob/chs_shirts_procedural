@@ -1,4 +1,5 @@
 # chs_shirts_procedural
+ljacob1@canterbury.kent.sch.uk
 Solution to Year 12 class assignment using a simulated queue of dictionaries in Python 3
 
 ASSIGNMENT
